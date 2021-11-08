@@ -1,0 +1,501 @@
+,gender,age,weight,breed,drug,outcome,date_in
+0,Unknown,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20210503
+1,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20210624
+2,Unknown,.00,3.180,Cat (unknown),MSK,unknown,19960613
+3,Unknown,3.00,3.180,Cat (unknown),MSK,unknown,19880111
+4,Male,2.00,unknown,Cat (unknown),MSK,Died,19950208
+5,Female,3.00,4.900,Cat (unknown),MSK,unknown,20080710
+6,Unknown,unknown,unknown,Cat (other),MSK,Died,20160720
+7,Unknown,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20150317
+8,Unknown,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20150128
+9,Unknown,unknown,unknown,Cat (other),MSK,Outcome Unknown,20151223
+10,Male,unknown,4.128,Cat (unknown),MSK,Ongoing,20210517
+11,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20130523
+12,Male,9.00,4.540,Cat (unknown),MSK,unknown,19910724
+13,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20051221
+14,Mixed,.00,unknown,Mixed (Cat),MSK,unknown,19981021
+15,Male,9.00,3.630,Cat (unknown),MSK,unknown,20040225
+16,Female,2.00,4.540,Cat (unknown),MSK,unknown,19991123
+17,Female,10.50,7.260,Cat (unknown),MSK,Died,20110603
+18,Unknown,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20150508
+19,Female,4.00,4.540,Cat (unknown),MSK,Outcome Unknown,20150821
+20,Unknown,unknown,unknown,Cat (other),MSK,Outcome Unknown,20160329
+21,Unknown,unknown,unknown,Cat (other),MSK,Outcome Unknown,20190126
+22,Unknown,unknown,unknown,Cat (unknown),MSK,Died,20030108
+23,Mixed,unknown,unknown,Mixed (Cat),MSK,unknown,20120420
+24,Female,5.00,2.270,Cat (unknown),MSK,unknown,19950421
+25,Female,unknown,3.402,Cat (unknown),MSK,Outcome Unknown,20200404
+26,Unknown,unknown,unknown,"['Cat (other)', 'Cat (other)', 'Cat (other)']",MSK,Outcome Unknown,20201217
+27,Female,3.00,4.536,Cat (other),MSK,Recovered/Normal,20170601
+28,Unknown,unknown,unknown,Cat (unknown),MSK,Ongoing,20170914
+29,Female,1.50,3.180,Cat (other),MSK,Outcome Unknown,20210423
+30,Female,14.00,1.500,Cat (unknown),MSK,unknown,20070827
+31,Female,unknown,5.443,Cat (unknown),MSK,Recovered/Normal,20200511
+32,Female,1.00,3.266,"['Siamese', 'Mixed (Cat)']",MSK,Outcome Unknown,20160912
+33,Male,unknown,4.990,Cat (other),MSK,Outcome Unknown,20201012
+34,Unknown,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20200511
+35,Unknown,unknown,unknown,Cat (unknown),MSK,Ongoing,20120921
+36,Unknown,16.00,unknown,Cat (unknown),MSK,Ongoing,20120717
+37,Unknown,.00,unknown,Cat (unknown),MSK,unknown,19940426
+38,Male,12.00,unknown,Cat (unknown),MSK,unknown,20110329
+39,Mixed,unknown,unknown,Mixed (Cat),MSK,unknown,20050318
+40,Male,10.00,7.711,Crossbred Feline/cat,MSK,Outcome Unknown,20150923
+41,Unknown,12.00,4.080,Cat (unknown),MSK,Died,20120316
+42,Mixed,6.00,7.766,"['Maine Coon', 'Cat (other)']",MSK,Recovered/Normal,20180215
+43,Unknown,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20190725
+44,Female,2.00,3.860,Cat (unknown),MSK,unknown,20020722
+45,Female,15.00,8.800,Cat (unknown),MSK,Died,20160222
+46,Unknown,unknown,unknown,Cat (unknown),MSK,Ongoing,20180718
+47,Unknown,unknown,4.536,Cat (unknown),MSK,Outcome Unknown,20200708
+48,Mixed,.00,unknown,Cat (unknown),MSK,unknown,19940224
+49,Male,16.00,unknown,Cat (unknown),MSK,Ongoing,20150113
+50,Mixed,.00,unknown,Mixed (Cat),MSK,unknown,19980130
+51,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20120319
+52,Male,2.00,5.220,Cat (unknown),MSK,unknown,20110303
+53,Unknown,unknown,unknown,Cat (unknown),MSK,Euthanized,20171213
+54,Unknown,9.00,1.270,Cat (unknown),MSK,Outcome Unknown,20181203
+55,Unknown,unknown,unknown,Cat (other),MSK,Outcome Unknown,20170217
+56,Female,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20180801
+57,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20210326
+58,Unknown,5.00,3.175,Cat (other),MSK,Outcome Unknown,20200929
+59,Male,6.00,3.400,Cat (unknown),MSK,Outcome Unknown,20121029
+60,Male,17.00,unknown,Cat (unknown),MSK,Died,20020124
+61,Female,1.00,4.536,Crossbred Feline/cat,MSK,Recovered/Normal,20180723
+62,Female,unknown,unknown,Cat (unknown),MSK,Ongoing,20201006
+63,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20201228
+64,Female,4.00,1.950,Cat (unknown),MSK,Died,20140819
+65,Unknown,8.00,unknown,Cat (unknown),MSK,Died,19941108
+66,unknown,unknown,unknown,unknown,MSK,unknown,20111107
+67,Unknown,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20130303
+68,Unknown,.00,unknown,Cat (unknown),MSK,Died,19890802
+69,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20001019
+70,Female,12.00,4.080,Cat (unknown),MSK,unknown,20010510
+71,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20151101
+72,Mixed,unknown,unknown,Mixed (Cat),MSK,unknown,20031223
+73,Female,17.00,1.810,Cat (unknown),MSK,unknown,19971008
+74,Female,11.00,5.262,Cat (unknown),MSK,Outcome Unknown,20160304
+75,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20120812
+76,Unknown,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20201102
+77,Mixed,unknown,4.310,Mixed (Cat),MSK,unknown,20101130
+78,Unknown,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20150910
+79,Male,1.00,7.620,Cat (unknown),MSK,Recovered/Normal,20160531
+80,Male,5.11,6.260,Cat (unknown),MSK,Recovered/Normal,20170425
+81,Female,18.00,3.860,Cat (unknown),MSK,Recovered/Normal,20131031
+82,Male,6.00,2.720,Abyssinian cat,MSK,unknown,20030730
+83,Female,3.00,5.220,Cat (unknown),MSK,Outcome Unknown,20150117
+84,Male,8.00,5.900,British cat,MSK,Outcome Unknown,20150416
+85,Male,unknown,unknown,Cat (unknown),MSK,unknown,20090212
+86,Unknown,unknown,6.350,Cat (other),MSK,Ongoing,20160818
+87,Unknown,unknown,6.169,Cat (unknown),MSK,Outcome Unknown,20151110
+88,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20170704
+89,Male,8.00,3.630,Cat (unknown),MSK,unknown,20001118
+90,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20150720
+91,Male,7.00,4.350,Abyssinian cat,MSK,Ongoing,20151030
+92,Unknown,1.00,unknown,Cat (other),MSK,Outcome Unknown,20190304
+93,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20181023
+94,Male,1.00,unknown,Cat (unknown),MSK,unknown,20051229
+95,Female,2.00,5.440,Cat (unknown),MSK,unknown,20080721
+96,Male,6.00,4.500,Cat (unknown),MSK,Died,20041101
+97,Unknown,unknown,unknown,Cat (other),MSK,Outcome Unknown,20160928
+98,Female,21.00,4.218,"['Siamese', 'Cat (unknown)']",MSK,Ongoing,20170712
+99,Female,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20200514
+100,Female,unknown,3.180,Cat (unknown),MSK,Outcome Unknown,20121112
+101,Unknown,6.00,2.720,Cat (unknown),MSK,unknown,19970114
+102,Unknown,8.00,4.080,Cat (unknown),MSK,Died,20080215
+103,Female,16.00,2.404,Cat (unknown),MSK,Recovered/Normal,20150124
+104,Female,6.00,3.180,Cat (unknown),MSK,unknown,20090123
+105,Female,10.00,unknown,Cat (other),MSK,Outcome Unknown,20160201
+106,Female,15.00,4.082,Crossbred Feline/cat,MSK,Recovered/Normal,20170717
+107,Unknown,unknown,3.175,Cat (unknown),MSK,Outcome Unknown,20181120
+108,Male,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20131022
+109,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20010719
+110,Male,4.50,6.400,Cat (unknown),MSK,Outcome Unknown,20170131
+111,Female,4.00,unknown,Cat (unknown),MSK,Died,20200711
+112,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20180713
+113,Female,15.50,4.536,Cat (unknown),MSK,Recovered/Normal,20190430
+114,Unknown,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20150116
+115,Male,6.00,4.500,Cat (unknown),MSK,unknown,20030520
+116,Mixed,6.00,unknown,Mixed (Cat),MSK,unknown,20040212
+117,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20010725
+118,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20110207
+119,Female,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20180716
+120,Unknown,unknown,unknown,Cat (other),MSK,Outcome Unknown,20200609
+121,Female,14.00,3.629,"['Maine Coon', 'Cat (unknown)']",MSK,Ongoing,20210220
+122,Male,16.50,6.350,Cat (unknown),MSK,Outcome Unknown,20200601
+123,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20131220
+124,Female,11.00,2.722,Cat (unknown),MSK,Recovered/Normal,20140728
+125,Unknown,.00,unknown,Mixed (Cat),MSK,unknown,19980501
+126,Male,8.50,5.440,British cat,MSK,unknown,20101028
+127,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20131029
+128,Unknown,4.00,9.980,Cat (unknown),MSK,Died,19900515
+129,Unknown,3.00,unknown,Cat (unknown),MSK,unknown,20070424
+130,Mixed,unknown,unknown,Mixed (Cat),MSK,unknown,20070424
+131,Female,6.00,3.630,Cat (unknown),MSK,unknown,20060327
+132,Female,9.00,3.180,Cat (unknown),MSK,Outcome Unknown,20160621
+133,Unknown,15.00,3.084,Cat (unknown),MSK,Outcome Unknown,20181116
+134,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20120614
+135,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20131212
+136,Female,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20200713
+137,Unknown,unknown,unknown,Cat (other),MSK,Recovered/Normal,20160713
+138,Female,1.00,3.630,Cat (unknown),MSK,Outcome Unknown,20171216
+139,Male,1.50,3.629,"['Siamese', 'Cat (unknown)']",MSK,Recovered with Sequela,20140908
+140,Female,unknown,unknown,Cat (unknown),MSK,unknown,20050429
+141,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20061117
+142,Unknown,unknown,unknown,Cat (other),MSK,Outcome Unknown,20200716
+143,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20151208
+144,Male,6.00,7.257,Cat (unknown),MSK,Recovered/Normal,20170307
+145,Unknown,17.00,4.536,Cat (unknown),MSK,Outcome Unknown,20180821
+146,Unknown,unknown,unknown,Cat (unknown),MSK,Euthanized,20190709
+147,Female,9.00,3.992,Crossbred Feline/cat,MSK,Outcome Unknown,20170822
+148,Unknown,unknown,unknown,Cat (other),MSK,Recovered/Normal,20200707
+149,Female,11.00,3.130,Crossbred Feline/cat,MSK,Recovered/Normal,20130925
+150,Mixed,.00,unknown,Mixed (Cat),MSK,unknown,19931026
+151,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20100114
+152,Unknown,unknown,4.540,Cat (unknown),MSK,unknown,20111122
+153,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,19990318
+154,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20010511
+155,Unknown,unknown,unknown,Cat (other),MSK,Outcome Unknown,20160714
+156,Male,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20180131
+157,Unknown,unknown,unknown,Cat (unknown),MSK,Euthanized,20180604
+158,Male,13.00,5.670,Cat (other),MSK,Ongoing,20190710
+159,Unknown,unknown,unknown,Cat (other),MSK,Died,20201023
+160,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20020201
+161,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20001018
+162,Female,10.00,4.670,Abyssinian cat,MSK,unknown,20140609
+163,Female,1.00,unknown,Cat (unknown),MSK,unknown,20020611
+164,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20160530
+165,Mixed,.00,unknown,Mixed (Cat),MSK,unknown,19970715
+166,Male,12.00,8.845,Cat (unknown),MSK,Recovered/Normal,20160114
+167,Unknown,unknown,unknown,Cat (other),MSK,Outcome Unknown,20191018
+168,Unknown,1.50,unknown,Cat (other),MSK,Recovered/Normal,20191230
+169,Female,unknown,7.710,Cat (unknown),MSK,Recovered/Normal,20120803
+170,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20120404
+171,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20120213
+172,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20011211
+173,Unknown,18.50,unknown,Cat (unknown),MSK,Died,20170103
+174,Male,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20170915
+175,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20201005
+176,Unknown,unknown,unknown,Cat (other),MSK,Outcome Unknown,20170222
+177,Female,unknown,unknown,Cat (other),MSK,Recovered/Normal,20161121
+178,Male,9.00,4.082,Cat (unknown),MSK,Outcome Unknown,20180805
+179,Unknown,unknown,unknown,Cat (unknown),MSK,Died,20080327
+180,Male,12.00,5.761,Cat (other),MSK,Recovered/Normal,20160129
+181,Unknown,5.00,5.443,Mixed (Cat),MSK,Outcome Unknown,20190327
+182,Male,3.00,3.175,Cat (other),MSK,Recovered/Normal,20190717
+183,Unknown,unknown,unknown,Cat (unknown),MSK,Died,20130925
+184,Unknown,unknown,unknown,Cat (unknown),MSK,Died,20041202
+185,Female,13.00,5.900,Cat (unknown),MSK,Died,20121019
+186,Mixed,unknown,unknown,Cat (unknown),MSK,unknown,19991123
+187,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20021122
+188,Male,1.50,4.990,Cat (unknown),MSK,unknown,20050819
+189,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20110622
+190,Male,4.00,2.450,Cat (unknown),MSK,unknown,20001127
+191,Male,10.00,6.300,Cat (unknown),MSK,Died,20190803
+192,Female,unknown,3.175,Cat (other),MSK,Outcome Unknown,20200901
+193,Unknown,unknown,2.270,Cat (unknown),MSK,Died,20020712
+194,Female,unknown,unknown,Cat (unknown),MSK,Died,20120104
+195,Unknown,.00,unknown,Cat (unknown),MSK,unknown,19981020
+196,Female,3.00,6.804,Crossbred Feline/cat,MSK,Recovered/Normal,20160403
+197,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20201109
+198,Unknown,1.00,4.536,Cat (other),MSK,Outcome Unknown,20200528
+199,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20080611
+200,Unknown,2.00,unknown,Cat (unknown),MSK,Outcome Unknown,20181221
+201,Female,8.00,4.990,"['Bengal', 'Cat (unknown)']",MSK,Recovered/Normal,20140130
+202,Unknown,3.00,4.540,Cat (unknown),MSK,unknown,20050706
+203,Female,unknown,5.440,Cat (unknown),MSK,unknown,20080427
+204,Unknown,unknown,unknown,Cat (other),MSK,Outcome Unknown,20200803
+205,Unknown,unknown,unknown,Cat (unknown),MSK,Died,20170321
+206,Female,4.00,4.354,Crossbred Feline/cat,MSK,Recovered/Normal,20140916
+207,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20080828
+208,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20200611
+209,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20140805
+210,Male,2.00,5.330,Cat (unknown),MSK,Recovered/Normal,20140715
+211,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20150925
+212,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20180430
+213,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20021002
+214,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20010627
+215,Female,8.00,.910,Cat (unknown),MSK,Died,19941103
+216,Male,10.00,6.350,Cat (unknown),MSK,unknown,19970707
+217,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20000913
+218,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20120830
+219,Male,10.00,5.443,Cat (unknown),MSK,Recovered/Normal,20160112
+220,Female,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20180810
+221,Male,11.00,5.897,Cat (unknown),MSK,Died,20171006
+222,Male,unknown,unknown,Cat (other),MSK,Outcome Unknown,20190415
+223,Unknown,.00,unknown,Cat (unknown),MSK,unknown,19871204
+224,Male,2.00,unknown,Cat (unknown),MSK,unknown,20070916
+225,Female,unknown,3.630,Cat (unknown),MSK,unknown,20081217
+226,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20181002
+227,Unknown,unknown,unknown,Cat (other),MSK,Ongoing,20181204
+228,Unknown,8.00,unknown,Cat (other),MSK,Ongoing,20170626
+229,Female,7.00,4.491,Cat (other),MSK,Recovered/Normal,20190429
+230,Mixed,5.00,3.990,"['Domestic Shorthair', 'Cat (unknown)']",MSK,Recovered/Normal,20121128
+231,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20121012
+232,Female,12.00,5.900,Cat (unknown),MSK,Ongoing,20130723
+233,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20150529
+234,Female,10.00,5.897,"['Crossbred Feline/cat', 'Maine Coon']",MSK,Ongoing,20200413
+235,Female,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20210415
+236,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20200324
+237,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20000519
+238,Mixed,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20170323
+239,Male,6.00,3.039,Cat (unknown),MSK,Ongoing,20170929
+240,Mixed,2.00,2.722,Mixed (Cat),MSK,Outcome Unknown,20171116
+241,Female,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20180817
+242,Female,12.00,3.175,"['Russian', 'Cat (other)', 'Domestic Shorthair']",MSK,Ongoing,20180705
+243,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20200625
+244,Unknown,5.50,3.450,Cat (unknown),MSK,Died,20121024
+245,Unknown,unknown,unknown,Cat (unknown),MSK,Died,20110110
+246,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20111213
+247,Unknown,unknown,unknown,Cat (other),MSK,Outcome Unknown,20160627
+248,Female,unknown,unknown,Cat (unknown),MSK,Died,20210503
+249,Female,15.00,3.266,Cat (unknown),MSK,Ongoing,20200508
+250,Female,2.00,unknown,Cat (unknown),MSK,Outcome Unknown,20210209
+251,Male,unknown,5.100,Cat (unknown),MSK,Recovered/Normal,20120525
+252,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20200922
+253,Unknown,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20120203
+254,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20121120
+255,Unknown,9.00,unknown,Cat (unknown),MSK,unknown,20100616
+256,Male,7.00,5.216,"['Himalayan', 'Cat (other)']",MSK,Ongoing,20160628
+257,Female,9.50,3.538,Cat (unknown),MSK,Died,20160229
+258,Unknown,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20170911
+259,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20180224
+260,Male,unknown,8.110,Cat (unknown),MSK,Ongoing,20200304
+261,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20200806
+262,Unknown,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20130205
+263,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20140603
+264,Male,unknown,5.440,Cat (unknown),MSK,unknown,20040202
+265,Female,4.00,3.630,Cat (unknown),MSK,unknown,20061128
+266,Unknown,1.00,3.175,Cat (other),MSK,Outcome Unknown,20190729
+267,Female,6.00,unknown,Cat (unknown),MSK,Outcome Unknown,20201119
+268,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20120919
+269,Female,8.00,6.170,"['Abyssinian cat', 'Cat (unknown)']",MSK,Recovered/Normal,20131114
+270,Mixed,unknown,unknown,Cat (unknown),MSK,unknown,20080618
+271,Unknown,unknown,unknown,Cat (unknown),MSK,Ongoing,20130926
+272,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20120209
+273,Unknown,unknown,2.268,Cat (other),MSK,Recovered/Normal,20190219
+274,Male,12.00,5.942,Cat (unknown),MSK,Outcome Unknown,20170714
+275,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20180329
+276,Male,6.00,2.700,"['Persian', 'Cat (other)']",MSK,Ongoing,20201001
+277,Female,2.00,3.230,Cat (unknown),MSK,Outcome Unknown,20110816
+278,Male,unknown,unknown,Cat (unknown),MSK,Died,20131106
+279,Female,unknown,unknown,Cat (unknown),MSK,unknown,20070305
+280,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20000914
+281,Male,6.00,4.540,Cat (unknown),MSK,unknown,20090618
+282,Unknown,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20161111
+283,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20160308
+284,Unknown,unknown,3.630,Cat (unknown),MSK,Outcome Unknown,20110824
+285,Female,3.00,3.630,"['Maine Coon', 'Cat (unknown)']",MSK,Recovered/Normal,20130624
+286,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20120510
+287,Female,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20160407
+288,Female,2.00,3.901,Cat (other),MSK,Outcome Unknown,20180219
+289,Female,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20171211
+290,Unknown,6.00,unknown,Cat (other),MSK,Outcome Unknown,20190326
+291,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20121109
+292,Female,5.00,4.100,Dachshund (unspecified),MSK,Died,20080529
+293,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20131104
+294,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20050418
+295,Female,2.00,2.720,Cat (unknown),MSK,Died,20080805
+296,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20000410
+297,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20090508
+298,Male,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20201203
+299,Unknown,unknown,unknown,Cat (other),MSK,Recovered/Normal,20201027
+300,Unknown,6.00,unknown,Cat (unknown),MSK,unknown,20071211
+301,Male,5.00,unknown,Cat (unknown),MSK,Died,20150804
+302,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20170324
+303,Unknown,unknown,4.164,Cat (unknown),MSK,Outcome Unknown,20190308
+304,Mixed,8.00,3.630,Cat (unknown),MSK,Ongoing,20131112
+305,Unknown,.00,unknown,Cat (unknown),MSK,unknown,19910204
+306,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20160809
+307,Female,6.00,4.491,Cat (other),MSK,Outcome Unknown,20161122
+308,Unknown,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20190708
+309,Unknown,unknown,unknown,Cat (other),MSK,Outcome Unknown,20190918
+310,Female,9.00,1.810,Cat (unknown),MSK,Recovered/Normal,20140512
+311,Unknown,17.00,unknown,Cat (unknown),MSK,Ongoing,20140930
+312,Female,6.00,1.810,Cat (unknown),MSK,unknown,19900518
+313,Unknown,unknown,unknown,Cat (other),MSK,Recovered/Normal,20180423
+314,Unknown,unknown,unknown,Cat (unknown),MSK,Euthanized,20160615
+315,Female,14.00,4.536,Cat (other),MSK,Outcome Unknown,20170726
+316,Male,12.00,unknown,Cat (other),MSK,Ongoing,20190204
+317,Unknown,18.50,unknown,Cat (unknown),MSK,Outcome Unknown,20210623
+318,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20130722
+319,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20130520
+320,Female,12.00,1.040,Cat (unknown),MSK,Recovered/Normal,20131204
+321,Unknown,1.50,5.900,Cat (unknown),MSK,unknown,20110906
+322,Male,15.00,5.440,Cat (unknown),MSK,unknown,20091109
+323,Female,11.00,4.170,Cat (unknown),MSK,Outcome Unknown,20120430
+324,Unknown,unknown,4.540,Cat (unknown),MSK,Recovered/Normal,20121110
+325,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20100712
+326,Mixed,unknown,unknown,Mixed (Cat),MSK,unknown,20060920
+327,Female,8.00,2.040,Cat (unknown),MSK,unknown,20070907
+328,Male,1.50,unknown,Cat (unknown),MSK,Ongoing,20181201
+329,Unknown,unknown,unknown,Cat (other),MSK,Outcome Unknown,20170512
+330,Unknown,unknown,unknown,Cat (other),MSK,Outcome Unknown,20181113
+331,Unknown,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20121023
+332,Unknown,5.50,2.720,Abyssinian cat,MSK,Died,20010205
+333,Unknown,unknown,unknown,Cat (unknown),MSK,Died,20040712
+334,Female,12.00,2.270,Cat (unknown),MSK,unknown,19930803
+335,Mixed,unknown,unknown,Mixed (Cat),MSK,unknown,20110330
+336,Male,12.00,5.900,Cat (unknown),MSK,Died,20090925
+337,Unknown,unknown,unknown,Cat (other),MSK,Outcome Unknown,20151218
+338,Unknown,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20150908
+339,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20161129
+340,Female,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20200526
+341,Unknown,unknown,5.897,Cat (other),MSK,Ongoing,20180613
+342,Male,1.00,4.540,Cat (unknown),MSK,Euthanized,20130626
+343,Male,14.00,6.600,British cat,MSK,Outcome Unknown,20131111
+344,Unknown,.00,unknown,Cat (unknown),MSK,unknown,19890523
+345,Unknown,unknown,8.165,"['Cat (other)', 'Cat (other)']",MSK,Outcome Unknown,20170103
+346,Female,unknown,unknown,Cat (unknown),MSK,Euthanized,20200503
+347,Unknown,.00,unknown,Cat (unknown),MSK,unknown,19891206
+348,Male,11.00,4.540,Cat (unknown),MSK,unknown,20000216
+349,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20121012
+350,Male,11.00,7.480,Cat (unknown),MSK,Recovered/Normal,20130116
+351,Unknown,8.00,.680,Cat (unknown),MSK,unknown,20081001
+352,Mixed,2.00,3.175,"['Domestic Shorthair', 'Cat (other)']",MSK,Ongoing,20181115
+353,Unknown,unknown,5.443,Cat (unknown),MSK,Outcome Unknown,20201104
+354,Female,2.00,4.536,"['Siamese', 'Cat (other)']",MSK,Ongoing,20210504
+355,Unknown,unknown,unknown,Cat (unknown),MSK,Died,20040203
+356,Male,8.00,7.031,"['Siamese', 'Cat (other)']",MSK,Outcome Unknown,20160615
+357,Unknown,unknown,unknown,Cat (unknown),MSK,Died,20090427
+358,Unknown,unknown,unknown,Cat (unknown),MSK,Died,20170825
+359,unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20180221
+360,Unknown,unknown,unknown,Cat (other),MSK,Ongoing,20180103
+361,Unknown,unknown,4.536,Cat (unknown),MSK,Outcome Unknown,20191113
+362,Unknown,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20120921
+363,Unknown,unknown,unknown,Mixed (Cat),MSK,unknown,20081015
+364,Male,7.00,8.160,Cat (unknown),MSK,unknown,20110819
+365,Male,10.50,4.540,Cat (unknown),MSK,unknown,20091109
+366,Female,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20160301
+367,Female,14.00,unknown,Cat (unknown),MSK,Recovered/Normal,20210121
+368,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20170307
+369,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20000830
+370,Male,13.00,4.241,Cat (unknown),MSK,Recovered/Normal,20141017
+371,Unknown,.00,unknown,Cat (unknown),MSK,unknown,19900315
+372,Mixed,5.00,2.948,"['Domestic Shorthair', 'Cat (other)']",MSK,Died,20161006
+373,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20160810
+374,Unknown,unknown,unknown,Cat (other),MSK,Outcome Unknown,20201009
+375,Unknown,unknown,2.890,Cat (unknown),MSK,Ongoing,20120619
+376,Male,13.50,4.450,Cat (unknown),MSK,Recovered/Normal,20130624
+377,Unknown,9.00,3.630,Cat (unknown),MSK,unknown,20021025
+378,Unknown,unknown,unknown,Cat (other),MSK,Outcome Unknown,20150811
+379,Female,7.00,5.897,Cat (unknown),MSK,Recovered/Normal,20160328
+380,Female,16.00,5.080,Cat (other),MSK,Recovered/Normal,20190319
+381,Unknown,9.00,unknown,Cat (unknown),MSK,Outcome Unknown,20200729
+382,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,19970331
+383,Female,6.00,.910,Cat (unknown),MSK,unknown,20060126
+384,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20060901
+385,Female,unknown,unknown,Cat (unknown),MSK,Ongoing,20170819
+386,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20170122
+387,Male,unknown,unknown,Cat (unknown),MSK,Ongoing,20160713
+388,Unknown,unknown,unknown,Cat (other),MSK,Outcome Unknown,20210330
+389,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20210608
+390,Female,1.00,7.260,Crossbred Feline/cat,MSK,Recovered with Sequela,20121204
+391,Unknown,unknown,unknown,Cat (unknown),MSK,Died,20080626
+392,Female,2.00,2.722,Cat (unknown),MSK,Outcome Unknown,20141211
+393,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20010326
+394,Unknown,.00,unknown,Cat (unknown),MSK,unknown,19940915
+395,Female,20.00,3.180,Cat (unknown),MSK,unknown,20100712
+396,Male,unknown,unknown,Cat (other),MSK,Outcome Unknown,20201002
+397,Male,unknown,unknown,Cat (unknown),MSK,Ongoing,20200824
+398,Male,10.00,5.987,"['Siamese', 'Cat (other)']",MSK,Ongoing,20210511
+399,Female,9.00,4.200,Cat (unknown),MSK,unknown,20010302
+400,Unknown,.00,unknown,Cat (unknown),MSK,Died,19900129
+401,Mixed,unknown,unknown,Mixed (Cat),MSK,unknown,20120301
+402,Male,12.00,unknown,Retriever - Labrador,MSK,Euthanized,20160118
+403,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20180619
+404,Female,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20201203
+405,Male,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20111026
+406,Female,unknown,3.629,Cat (unknown),MSK,Recovered/Normal,20210406
+407,Unknown,.00,2.270,Cat (unknown),MSK,unknown,19900727
+408,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20130628
+409,Male,unknown,unknown,Cat (unknown),MSK,unknown,20070511
+410,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20000724
+411,Unknown,unknown,unknown,Cat (other),MSK,Outcome Unknown,20161019
+412,Mixed,8.00,unknown,Cat (other),MSK,Outcome Unknown,20181204
+413,Unknown,unknown,unknown,Cat (other),MSK,Outcome Unknown,20200317
+414,Female,11.50,4.500,Cat (unknown),MSK,Recovered/Normal,20210402
+415,Female,3.00,6.800,Cat (unknown),MSK,Recovered/Normal,20111102
+416,Male,4.50,4.354,Cat (unknown),MSK,Outcome Unknown,20160219
+417,Unknown,unknown,unknown,Cat (other),MSK,Outcome Unknown,20160621
+418,Unknown,unknown,unknown,Cat (other),MSK,Outcome Unknown,20200924
+419,Unknown,unknown,unknown,Cat (other),MSK,Outcome Unknown,20190809
+420,Unknown,unknown,4.540,Cat (unknown),MSK,unknown,20060818
+421,Unknown,unknown,unknown,Cat (unknown),MSK,Ongoing,20210515
+422,Male,unknown,2.268,Cat (unknown),MSK,Outcome Unknown,20151204
+423,Unknown,unknown,unknown,Cat (other),MSK,Outcome Unknown,20160926
+424,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20190702
+425,Unknown,unknown,unknown,Cat (unknown),MSK,Died,20010312
+426,Male,6.00,5.443,"['Siamese', 'Cat (unknown)']",MSK,Recovered with Sequela,20140714
+427,Unknown,.00,unknown,Cat (unknown),MSK,unknown,19900315
+428,Unknown,2.00,4.450,Cat (unknown),MSK,unknown,20090814
+429,Unknown,16.00,6.350,Cat (unknown),MSK,unknown,20041129
+430,Male,10.00,8.255,Cat (unknown),MSK,Recovered/Normal,20190917
+431,Male,13.00,unknown,Cat (unknown),MSK,Outcome Unknown,20200513
+432,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20130729
+433,Male,unknown,unknown,Mixed (Cat),MSK,unknown,19990318
+434,Male,2.00,unknown,Cat (unknown),MSK,unknown,19941115
+435,Unknown,unknown,4.082,Cat (unknown),MSK,Outcome Unknown,20161101
+436,Male,7.00,4.808,Cat (unknown),MSK,Ongoing,20210215
+437,Unknown,unknown,unknown,Cat (unknown),MSK,Ongoing,20210617
+438,Male,3.00,1.400,Cat (unknown),MSK,unknown,20070925
+439,Female,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20170825
+440,Unknown,unknown,unknown,Cat (other),MSK,Ongoing,20190819
+441,Unknown,unknown,unknown,Cat (unknown),MSK,Recovered with Sequela,20130204
+442,Female,13.00,4.760,"['Cat (unknown)', 'Cat (unknown)']",MSK,Outcome Unknown,20130918
+443,Male,6.00,unknown,Cat (unknown),MSK,Euthanized,20130916
+444,Unknown,.00,4.080,Cat (unknown),MSK,Died,19980714
+445,Female,unknown,4.080,Cat (unknown),MSK,unknown,20090820
+446,Female,unknown,unknown,Cat (other),MSK,Recovered/Normal,20201215
+447,Unknown,unknown,2.540,Cat (other),MSK,Ongoing,20201027
+448,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20161115
+449,Female,15.00,unknown,Cat (other),MSK,Outcome Unknown,20190821
+450,Male,8.00,4.990,"['Crossbred Feline/cat', 'Maine Coon']",MSK,Recovered/Normal,20210426
+451,Male,8.00,2.040,Abyssinian cat,MSK,Recovered/Normal,20130716
+452,Male,9.00,unknown,Cat (unknown),MSK,Died,20130626
+453,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20080306
+454,Male,1.50,4.540,Cat (unknown),MSK,unknown,20110511
+455,Male,14.00,7.670,Cat (unknown),MSK,Died,20090522
+456,Unknown,unknown,unknown,Cat (other),MSK,Outcome Unknown,20171011
+457,Female,3.00,unknown,Cat (unknown),MSK,Recovered/Normal,20201227
+458,Male,unknown,10.886,Cat (unknown),MSK,Recovered/Normal,20140912
+459,Unknown,.00,unknown,Cat (unknown),MSK,unknown,19880118
+460,Unknown,.00,unknown,Cat (unknown),MSK,unknown,19951221
+461,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20060216
+462,Female,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20200129
+463,Male,8.00,1.360,Cat (unknown),MSK,Died,20100819
+464,Unknown,unknown,unknown,Cat (unknown),MSK,Died,20101229
+465,Female,2.00,3.590,Cat (unknown),MSK,Ongoing,20150219
+466,Mixed,4.00,5.443,Crossbred Feline/cat,MSK,Outcome Unknown,20170727
+467,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20191008
+468,Male,unknown,unknown,Cat (other),MSK,Ongoing,20181026
+469,Female,1.00,4.720,"['Siamese', 'Mixed (Cat)']",MSK,Recovered/Normal,20121004
+470,Female,15.00,5.170,Cat (unknown),MSK,Died,20091210
+471,Male,7.00,3.515,Cat (unknown),MSK,Recovered/Normal,20150527
+472,Female,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20171027
+473,Female,2.50,4.450,"['Domestic Shorthair', 'Cat (unknown)']",MSK,Ongoing,20120222
+474,Male,9.00,5.220,"['Siamese', 'Cat (unknown)']",MSK,Ongoing,20130918
+475,Unknown,15.00,unknown,Cat (unknown),MSK,Died,20100521
+476,Mixed,unknown,unknown,Mixed (Cat),MSK,unknown,20060113
+477,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20111109
+478,Female,19.00,4.536,Cat (unknown),MSK,Outcome Unknown,20180109
+479,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20210122
+480,Female,6.00,5.130,Cat (unknown),MSK,unknown,20031021
+481,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20161115
+482,Male,unknown,unknown,Cat (other),MSK,Outcome Unknown,20180409
+483,Male,3.00,5.897,Cat (other),MSK,Outcome Unknown,20190528
+484,Unknown,.00,unknown,Cat (unknown),MSK,unknown,19920305
+485,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20090501
+486,Female,18.00,unknown,Cat (unknown),MSK,unknown,20101101
+487,Male,9.00,5.398,Crossbred Feline/cat,MSK,Ongoing,20180723
+488,Female,9.00,4.536,Cat (other),MSK,Outcome Unknown,20210609
+489,Unknown,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20130315
+490,Unknown,unknown,unknown,Cat (unknown),MSK,unknown,20030224
+491,Unknown,unknown,unknown,Cat (other),MSK,Died,20210303
+492,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20201202
+493,Unknown,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20130719
+494,Male,5.00,5.670,Cat (unknown),MSK,Ongoing,20131212
+495,Male,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20120621
+496,Male,15.00,3.630,British cat,MSK,unknown,20000602
+497,Unknown,unknown,unknown,Cat (unknown),MSK,Died,20170119
+498,Unknown,unknown,unknown,Cat (unknown),MSK,Outcome Unknown,20180314
+499,Mixed,unknown,unknown,Cat (unknown),MSK,Recovered/Normal,20191118
