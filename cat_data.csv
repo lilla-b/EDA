@@ -1,0 +1,501 @@
+,gender,age,weight,breed,drug,outcome,date_in
+0,Male,10.00,6.350,Domestic Shorthair,Spinosad,Recovered/Normal,20170508
+1,Female,12.00,3.130,Domestic Shorthair,Cefovecin,Ongoing,20171002
+2,Male,1.00,4.309,Domestic Shorthair,Spinosad,Recovered/Normal,20180205
+3,Female,9.00,0,Domestic Shorthair,Imidacloprid,Outcome Unknown,20190327
+4,Male,5.00,6.577,Domestic Shorthair,Maropitant Citrate,Ongoing,20190220
+5,Male,2.00,5.897,Domestic Shorthair,Fluralaner Spot-On Solution,Ongoing,20190721
+6,Male,8.00,8.845,Domestic Longhair,Spinosad,Recovered/Normal,20190307
+7,Unknown,0,0,Cat (unknown),Imidacloprid,Recovered/Normal,20210503
+8,Male,9.00,4.309,Domestic Shorthair,Fluralaner Spot-On Solution,Ongoing,20200515
+9,Female,11.00,2.722,Cat (unknown),Imidacloprid,Outcome Unknown,20210518
+10,Unknown,0,0,Cat (unknown),Praziquantel,Outcome Unknown,20210624
+11,Male,8.00,4.540,Domestic Longhair,Spinosad,Recovered/Normal,20121030
+12,Unknown,.00,3.180,Cat (unknown),Griseofulvin,Unknown,19960613
+13,Female,2.00,2.720,Domestic Shorthair,Selamectin,Outcome Unknown,20121203
+14,Male,7.00,5.400,Domestic Longhair,Pradofloxacin,Recovered/Normal,20130725
+15,Male,15.00,3.180,Domestic Shorthair,Amoxicillin As Amoxicillin Trihydrate; Clavulanate Potassium ( K-Clavulanate),Ongoing,20130724
+16,Male,2.00,6.350,Domestic (unspecified),Pyrantel Pamoate,Unknown,20070127
+17,Male,10.00,5.500,Domestic (unspecified),Enrofloxacin,Unknown,20061016
+18,Unknown,3.00,3.180,Cat (unknown),Ketamine Hydrochloride,Unknown,19880111
+19,Male,2.00,0,Cat (unknown),"Bacitracin, Neomycin, Polymyxin B",Died,19950208
+20,Male,15.00,8.160,Domestic (unspecified),Cyclosporine,Unknown,20111019
+21,Female,17.00,3.180,Domestic (unspecified),Ketamine Hydrochloride,Unknown,20040403
+22,Male,2.00,4.990,Domestic (unspecified),Lufenuron,Unknown,19960603
+23,Female,18.00,2.490,Domestic (unspecified),Butorphanol Tartrate,Unknown,20040907
+24,Female,3.00,3.630,Domestic (unspecified),Epsiprantel,Unknown,19910626
+25,Female,12.00,3.540,Domestic (unspecified),Nitenpyram,Unknown,20080902
+26,Female,3.00,4.900,Cat (unknown),Meloxicam,Unknown,20080710
+27,Male,2.00,7.260,Domestic (unspecified),Selamectin,Unknown,20080505
+28,Female,14.00,3.450,Domestic (unspecified),Atipamezole,Unknown,20021017
+29,Female,7.00,3.860,Domestic (unspecified),Selamectin,Unknown,20080415
+30,Female,9.00,4.310,Domestic (unspecified),Lufenuron,Unknown,20080902
+31,Male,6.00,5.670,Domestic (unspecified),Selamectin,Unknown,20010730
+32,Male,9.00,.450,Domestic (unspecified),Selamectin,Unknown,20060627
+33,Male,1.00,3.630,Domestic (unspecified),Selamectin,Unknown,20000417
+34,Female,8.00,5.900,Domestic (unspecified),Selamectin,Unknown,20110609
+35,Male,15.00,5.897,Domestic Longhair,Spinosad,Recovered/Normal,20150519
+36,Male,5.00,0,Domestic (unspecified),"Emodepside, Praziquantel",Unknown,20080812
+37,Male,3.50,7.710,Domestic (unspecified),Cefovecin Sodium,Died,20080807
+38,Female,3.00,6.396,Domestic Mediumhair,Spinosad,Recovered/Normal,20161109
+39,Unknown,0,0,Cat (other),Selamectin,Died,20160720
+40,Unknown,0,0,Cat (unknown),Robenacoxib,Recovered/Normal,20150317
+41,Unknown,0,0,Cat (unknown),Cefovecin,Recovered/Normal,20150128
+42,Male,8.00,4.990,Domestic Shorthair,Praziquantel,Outcome Unknown,20150723
+43,Unknown,0,0,Cat (other),Atipamezole Hydrochloride,Outcome Unknown,20151223
+44,Male,6.00,7.484,Domestic Mediumhair,Fluralaner Spot-On Solution,Ongoing,20180416
+45,Female,0,0,Domestic Mediumhair,Selamectin,Ongoing,20181008
+46,Male,11.00,4.082,Domestic (unspecified),Mirtazapine,Euthanized,20190824
+47,Male,17.00,3.674,Domestic Shorthair,Selamectin;Sarolaner,Ongoing,20200819
+48,Female,4.00,1.814,Domestic Shorthair,Fluralaner Spot-On Solution,Ongoing,20190924
+49,Female,7.00,4.445,Domestic Mediumhair,Buprenorphine,Ongoing,20201021
+50,Male,0,4.128,Cat (unknown),Itraconazole,Ongoing,20210517
+51,Male,8.00,5.000,Domestic Shorthair,Imidacloprid,Recovered/Normal,20081006
+52,Male,2.00,6.486,Domestic Shorthair,Fluralaner Spot-On Solution,Ongoing,20201124
+53,Male,6.00,5.440,Domestic Mediumhair,Spinosad,Recovered/Normal,20130610
+54,Female,8.00,4.990,Domestic Shorthair,Recombinant Human Insulin,Recovered/Normal,20121016
+55,Female,3.50,3.360,Domestic Shorthair,Nitenpyram,Outcome Unknown,20121107
+56,Male,3.50,6.350,Domestic (unspecified),"Amoxicillin, Clavulanate",Unknown,20000919
+57,Female,3.00,1.360,Domestic (unspecified),Pyrantel Pamoate,Unknown,19981107
+58,Female,6.00,0,Domestic (unspecified),Selamectin,Unknown,20010424
+59,Female,7.00,3.180,Domestic (unspecified),Ketamine Hydrochloride,Unknown,20060504
+60,Female,2.00,3.270,Domestic Shorthair,Spinosad,Outcome Unknown,20140430
+61,Female,3.50,0,Domestic (unspecified),Aminopentamide,Unknown,20060426
+62,Female,0,0,Domestic (unspecified),Ketamine Hydrochloride,Unknown,19990528
+63,Male,5.00,2.860,Domestic Shorthair,Dexmedetomidine Hydrochloride,Recovered/Normal,20140916
+64,Female,.00,4.540,Domestic (unspecified),Ketamine Hydrochloride,Died,19890323
+65,Male,5.00,5.170,Domestic (unspecified),Propofol,Unknown,20111230
+66,Male,8.00,6.700,Domestic (unspecified),Enrofloxacin,Unknown,20040525
+67,Male,3.00,5.440,Domestic (unspecified),Lufenuron,Unknown,19991213
+68,Female,6.00,2.720,Domestic (unspecified),Selamectin,Died,20080305
+69,Female,10.00,3.900,Domestic Longhair,Spinosad,Recovered with Sequela,20120914
+70,Male,12.00,1.910,Domestic Longhair,Selamectin,Outcome Unknown,20140729
+71,Unknown,0,0,Cat (unknown),Spinosad,Outcome Unknown,20130523
+72,Male,3.00,5.130,Domestic Mediumhair,Selamectin,Outcome Unknown,20140520
+73,Male,9.00,4.540,Cat (unknown),Ketamine Hydrochloride,Unknown,19910724
+74,Male,6.00,3.630,American Shorthair,Clindamycin Hydrochloride,Died,20100806
+75,Unknown,0,0,Cat (unknown),Furosemide,Unknown,20051221
+76,Mixed,.00,0,Mixed (Cat),"Tiletamine, Zolazepam",Unknown,19981021
+77,Male,9.00,3.630,Cat (unknown),"Bacitracin, Neomycin, Polymyxin B",Unknown,20040225
+78,Male,5.00,2.990,Domestic (unspecified),Selamectin,Died,20061211
+79,Female,2.00,4.540,Cat (unknown),Lufenuron,Unknown,19991123
+80,Female,0,2.720,Domestic (unspecified),Selamectin,Unknown,20040928
+81,Male,10.00,6.350,Domestic (unspecified),Selamectin,Unknown,20080327
+82,Female,1.00,2.950,Domestic (unspecified),Selamectin,Unknown,20070508
+83,Female,3.00,4.540,Domestic (unspecified),Selamectin,Unknown,20001031
+84,Male,2.00,0,Domestic (unspecified),Selamectin,Unknown,20061030
+85,Female,13.00,5.900,Domestic (unspecified),Meloxicam,Unknown,20060511
+86,Female,1.50,3.400,Domestic (unspecified),"Imidacloprid, Moxidectin",Unknown,20090617
+87,Male,2.00,5.440,Domestic (unspecified),"Emodepside, Praziquantel",Unknown,20090104
+88,Female,10.50,7.260,Cat (unknown),Human Insulin,Died,20110603
+89,Unknown,0,0,Cat (unknown),Praziquantel,Recovered/Normal,20150508
+90,Female,4.00,4.540,Cat (unknown),Robenacoxib,Outcome Unknown,20150821
+91,Male,7.00,4.450,Domestic Shorthair,Cyclosporine A,Recovered/Normal,20150921
+92,Unknown,0,0,Cat (other),Cefovecin,Outcome Unknown,20160329
+93,Male,2.00,5.443,Domestic Longhair,Spinosad,Ongoing,20160405
+94,Female,2.00,4.082,"['Domestic Longhair', 'Maine Coon']",Lufenuron,Outcome Unknown,20160404
+95,Female,4.00,4.540,Domestic Shorthair,Imidacloprid,Recovered/Normal,20161017
+96,Female,11.00,4.309,Domestic Shorthair,Praziquantel,Outcome Unknown,20180321
+97,Male,10.00,5.443,Domestic Shorthair,Spinosad,Recovered/Normal,20180508
+98,Female,11.00,5.470,Domestic Shorthair,Dexmedetomidine Hydrochloride,Ongoing,20180629
+99,Female,6.00,4.128,Domestic Longhair,Spinosad,Recovered/Normal,20170808
+100,Male,6.00,4.536,Domestic Shorthair,Nitenpyram,Recovered/Normal,20181123
+101,Male,2.00,3.084,Domestic Shorthair,Nitenpyram,Euthanized,20180911
+102,Female,6.00,3.266,Domestic Longhair,Selamectin,Ongoing,20190115
+103,Unknown,0,0,Cat (other),Selamectin,Outcome Unknown,20190126
+104,Female,2.00,4.536,Domestic Shorthair,Fluralaner Spot-On Solution,Ongoing,20190611
+105,Female,6.00,5.897,Domestic Mediumhair,Praziquantel,Outcome Unknown,20210303
+106,Male,3.00,4.354,Domestic Mediumhair,Fluralaner Spot-On Solution,Ongoing,20200826
+107,Female,7.00,3.175,Domestic Shorthair,Spinosad,Outcome Unknown,20200617
+108,Female,7.00,4.990,Domestic Longhair,Nitenpyram,Recovered/Normal,20121017
+109,Male,10.00,5.900,Domestic Shorthair,Spinosad,Recovered/Normal,20131106
+110,Male,13.00,4.540,Domestic Shorthair,Spinosad,Recovered/Normal,20131217
+111,Male,10.00,0,Domestic Shorthair,Selamectin,Outcome Unknown,20140624
+112,Unknown,0,0,Cat (unknown),"Pentobarbital, Phenytoin",Died,20030108
+113,Mixed,0,0,Mixed (Cat),"Tiletamine, Zolazepam",Unknown,20120420
+114,Female,5.00,2.270,Cat (unknown),Acepromazine Maleate,Unknown,19950421
+115,Male,7.00,.450,Domestic (unspecified),Penicillin G Procaine,Unknown,20001017
+116,Male,8.00,6.260,Domestic (unspecified),"Tiletamine, Zolazepam",Died,20041213
+117,Male,5.00,3.810,Domestic (unspecified),Meloxicam,Unknown,20120514
+118,Male,4.00,5.440,Domestic (unspecified),Carprofen,Unknown,20010713
+119,Male,3.00,3.990,Domestic (unspecified),Selamectin,Unknown,20010518
+120,Female,20.00,3.175,Domestic Shorthair,Cefovecin,Died,20160714
+121,Male,4.00,2.304,Domestic Shorthair,Eprinomectin,Outcome Unknown,20201103
+122,Female,3.00,3.629,Domestic Shorthair,Selamectin;Sarolaner,Outcome Unknown,20200313
+123,Female,0,3.402,Cat (unknown),Florfenicol,Outcome Unknown,20200404
+124,Unknown,0,0,"['Cat (other)', 'Cat (other)', 'Cat (other)']",Selamectin,Outcome Unknown,20201217
+125,Male,19.00,2.720,Domestic (unspecified),Selamectin,Unknown,20071001
+126,Male,4.50,3.180,Domestic (unspecified),Cefovecin Sodium,Unknown,20120313
+127,Female,16.00,5.080,Domestic (unspecified),Cefovecin Sodium,Unknown,20090120
+128,Female,3.00,4.536,Cat (other),Selamectin,Recovered/Normal,20170601
+129,Unknown,0,0,Cat (unknown),Spinosad,Ongoing,20170914
+130,Male,2.00,5.440,Domestic Shorthair,Buprenorphine,Recovered/Normal,20151008
+131,Male,12.00,7.756,Domestic Shorthair,Cyclosporine,Recovered/Normal,20161025
+132,Female,10.00,2.722,Domestic Shorthair,Fluralaner Spot-On Solution,Recovered/Normal,20180727
+133,Female,6.00,4.536,Domestic Shorthair,Imidacloprid,Outcome Unknown,20181212
+134,Female,5.00,2.041,Domestic Shorthair,Cefovecin,Ongoing,20180927
+135,Male,7.00,5.180,Domestic Mediumhair,Selamectin,Ongoing,20181214
+136,Female,1.50,3.180,Cat (other),Nitenpyram,Outcome Unknown,20210423
+137,Female,13.00,5.126,Domestic Longhair,Robenacoxib,Ongoing,20210519
+138,Female,15.00,2.722,Domestic Longhair,Fluralaner Spot-On Solution,Ongoing,20210618
+139,Male,16.00,1.410,Domestic Shorthair,Emodepside,Recovered/Normal,20130205
+140,Female,13.00,0,Domestic Shorthair,Spinosad,Recovered/Normal,20130625
+141,Female,3.00,0,Domestic (unspecified),Selamectin,Unknown,20001110
+142,Female,12.00,4.080,Domestic Shorthair,Spinosad,Recovered/Normal,20140411
+143,Male,12.00,4.540,Domestic Shorthair,Spinosad,Outcome Unknown,20131101
+144,Male,12.00,11.790,Domestic Shorthair,Spinosad,Recovered with Sequela,20130816
+145,Male,8.00,4.540,Domestic Mediumhair,Spinosad,Euthanized,20130617
+146,Male,4.00,5.440,Domestic Longhair,Spinosad,Recovered/Normal,20130918
+147,Male,5.00,8.160,Domestic Shorthair,Spinosad,Outcome Unknown,20130919
+148,Female,15.00,2.950,Domestic Shorthair,Cefovecin,Ongoing,20130919
+149,Female,3.00,2.400,Domestic Shorthair,Selamectin,Outcome Unknown,20140826
+150,Male,8.00,6.350,Domestic Shorthair,Spinosad,Recovered/Normal,20141218
+151,Mixed,8.00,2.270,Domestic (unspecified),Selamectin,Died,20020401
+152,Male,4.20,4.540,Domestic (unspecified),Selamectin,Unknown,20100927
+153,Female,3.50,0,Domestic (unspecified),Butorphanol Tartrate,Unknown,20060426
+154,Male,11.00,7.710,Domestic (unspecified),Selamectin,Unknown,20080107
+155,Male,7.00,5.440,Domestic (unspecified),Cyclosporine,Unknown,20051104
+156,Female,14.00,1.500,Cat (unknown),Meloxicam,Unknown,20070827
+157,Female,0,5.443,Cat (unknown),Nitenpyram,Recovered/Normal,20200511
+158,Male,4.50,2.268,Domestic Shorthair,Nitenpyram,Ongoing,20200402
+159,Male,8.00,4.536,Domestic Longhair,Spinosad,Recovered/Normal,20160217
+160,Female,15.00,3.860,Domestic (unspecified),Human Insulin,Unknown,20120502
+161,Female,1.00,3.266,"['Siamese', 'Mixed (Cat)']",Selamectin,Outcome Unknown,20160912
+162,Male,8.00,6.237,Domestic Shorthair,Insulin Injectable Vial,Ongoing,20160810
+163,Female,3.00,3.538,Domestic Mediumhair,Fluralaner Spot-On Solution,Ongoing,20170302
+164,Female,12.50,3.856,Domestic Shorthair,Fluralaner Spot-On Solution,Ongoing,20170628
+165,Male,4.00,.454,Domestic Shorthair,Itraconazole,Died,20170627
+166,Male,13.00,3.629,Domestic Shorthair,Spinosad,Outcome Unknown,20170925
+167,Male,0,4.990,Cat (other),Selamectin;Sarolaner,Outcome Unknown,20201012
+168,Male,9.00,1.021,Domestic Mediumhair,Robenacoxib,Ongoing,20181002
+169,Male,10.00,4.536,Domestic Shorthair,Lufenuron,Ongoing,20181206
+170,Unknown,0,0,Cat (unknown),Nitenpyram,Recovered/Normal,20200511
+171,Female,2.00,4.853,Domestic Mediumhair,Fluralaner Spot-On Solution,Ongoing,20190829
+172,Male,2.00,4.990,Domestic Shorthair,Spinosad,Recovered/Normal,20131122
+173,Unknown,0,0,Cat (unknown),Cefovecin,Ongoing,20120921
+174,Female,8.00,6.030,Domestic Shorthair,Spinosad,Recovered/Normal,20130719
+175,Unknown,16.00,0,Cat (unknown),Cefovecin,Ongoing,20120717
+176,Female,8.00,0,Domestic Shorthair,Imidacloprid,Outcome Unknown,20140402
+177,Female,2.00,4.760,Domestic Shorthair,Imidacloprid,Outcome Unknown,20140708
+178,Unknown,.00,0,Cat (unknown),Ketamine Hydrochloride,Unknown,19940426
+179,Male,11.00,5.400,Domestic (unspecified),"Amoxicillin, Clavulanate",Unknown,20080916
+180,Male,5.00,6.760,Domestic Shorthair,Selamectin,Outcome Unknown,20141210
+181,Female,3.00,4.450,Domestic Shorthair,Cefovecin,Ongoing,20140731
+182,Male,12.00,0,Cat (unknown),Clindamycin Hydrochloride,Unknown,20110329
+183,Mixed,0,0,Mixed (Cat),Amitraz,Unknown,20050318
+184,Male,7.50,0,Domestic (unspecified),"Betamethasone Valerate, Clotrimazole, Gentamicin Sulfate",Unknown,20020606
+185,Male,6.00,0,Domestic (unspecified),Selamectin,Unknown,20021113
+186,Female,8.00,3.860,Domestic (unspecified),Marbofloxacin,Unknown,20070417
+187,Male,2.00,6.490,Domestic (unspecified),Selamectin,Unknown,20091221
+188,Male,1.00,5.900,Domestic (unspecified),Nitenpyram,Unknown,20091106
+189,Male,4.00,1.542,Domestic Shorthair,Praziquantel,Recovered/Normal,20150729
+190,Male,10.00,7.711,Crossbred Feline/cat,Nitenpyram,Outcome Unknown,20150923
+191,Male,3.00,7.260,Domestic (unspecified),Lufenuron,Unknown,20090617
+192,Female,9.00,6.120,Domestic (unspecified),Selamectin,Unknown,20091215
+193,Male,8.00,4.670,Domestic Shorthair,Selamectin,Outcome Unknown,20150312
+194,Male,13.00,8.160,Domestic (unspecified),Meloxicam,Died,20081229
+195,Female,7.00,4.990,Domestic (unspecified),Maropitant,Unknown,20090217
+196,Female,3.00,3.629,Domestic Shorthair,Spinosad,Recovered/Normal,20150223
+197,Female,3.00,4.080,Domestic (unspecified),Cefovecin Sodium,Unknown,20111020
+198,Unknown,12.00,4.080,Cat (unknown),Meloxicam,Died,20120316
+199,Male,6.00,9.117,Domestic Shorthair,Spinosad,Recovered/Normal,20160802
+200,Female,5.00,5.035,"['Domestic Shorthair', 'Domestic Shorthair']",Selamectin,Ongoing,20170726
+201,Male,3.00,4.536,Domestic Shorthair,Nitenpyram,Ongoing,20170809
+202,Female,10.50,6.169,Domestic Shorthair,Selamectin,Recovered/Normal,20171121
+203,Female,13.00,5.153,Domestic Shorthair,Florfenicol/Terbinafine Hydrochloride/Mometasone Furoate,Recovered/Normal,20180201
+204,Male,7.00,6.668,Domestic Shorthair,Imidacloprid,Recovered/Normal,20180221
+205,Male,9.00,5.625,Domestic Shorthair,Selamectin,Outcome Unknown,20181218
+206,Male,6.50,6.804,Domestic Shorthair,Selamectin,Died,20180430
+207,Mixed,6.00,7.766,"['Maine Coon', 'Cat (other)']",Buprenorphine,Recovered/Normal,20180215
+208,Female,9.00,4.990,Domestic Shorthair,Spinosad,Outcome Unknown,20200617
+209,Female,7.50,3.311,Domestic Shorthair,Sarolaner,Ongoing,20190708
+210,Female,13.00,3.901,Domestic Shorthair,Praziquantel,Died,20191226
+211,Male,14.00,5.806,Domestic Shorthair,Telmisartan,Outcome Unknown,20181210
+212,Male,5.00,5.440,Domestic Shorthair,Selamectin,Ongoing,20130103
+213,Male,9.00,6.804,Domestic Shorthair,Fluralaner Spot-On Solution,Ongoing,20200928
+214,Male,3.50,3.946,Domestic Shorthair,Selamectin,Ongoing,20201020
+215,Unknown,0,0,Cat (unknown),Dexmedetomidine,Recovered/Normal,20190725
+216,Male,1.00,4.990,Domestic Shorthair,Meloxicam,Outcome Unknown,20140828
+217,Female,6.00,6.800,Domestic Shorthair,Spinosad,Recovered/Normal,20130829
+218,Female,10.00,2.540,Domestic Shorthair,Imidacloprid,Recovered/Normal,20120625
+219,Male,11.00,9.530,Domestic Shorthair,Spinosad,Ongoing,20131014
+220,Unknown,0,0,Domestic (unspecified),Spinosad,Outcome Unknown,20111108
+221,Female,4.00,5.900,Domestic (unspecified),Ketamine Hydrochloride,Unknown,20060504
+222,Male,12.00,7.711,Domestic Longhair,Spinosad,Recovered/Normal,20141110
+223,Male,10.00,4.990,Domestic (unspecified),Ivermectin,Unknown,20070525
+224,Unknown,0,0,Domestic (unspecified),"Tiletamine, Zolazepam",Died,20100810
+225,Male,5.00,5.440,Domestic (unspecified),Carprofen,Unknown,20001127
+226,Male,2.00,4.080,Domestic (unspecified),Lufenuron,Unknown,20020916
+227,Female,4.00,2.500,Domestic (unspecified),"Imidacloprid, Moxidectin",Unknown,20080802
+228,Male,4.00,5.900,Domestic (unspecified),Selamectin,Unknown,20020514
+229,Mixed,6.00,2.720,Domestic (unspecified),Clindamycin Hydrochloride,Unknown,19921124
+230,Female,12.00,8.160,Domestic (unspecified),Selamectin,Unknown,20120605
+231,Male,50.00,4.170,Domestic (unspecified),Selamectin,Unknown,20000103
+232,Male,15.00,6.800,Domestic (unspecified),Nitenpyram,Died,20070913
+233,Female,6.00,3.630,Domestic (unspecified),Meloxicam,Unknown,20060804
+234,Male,3.00,2.495,Domestic Shorthair,Pradofloxacin,Outcome Unknown,20151223
+235,Male,11.00,3.180,Domestic (unspecified),Cefovecin Sodium,Died,20120111
+236,Female,10.00,6.078,Domestic Shorthair,Spinosad,Recovered/Normal,20150331
+237,Male,2.00,4.450,Domestic (unspecified),Selamectin,Unknown,20010420
+238,Female,7.00,3.490,Scottish Fold Shorthair,Selamectin,Unknown,20120406
+239,Female,2.00,3.860,Cat (unknown),Selamectin,Unknown,20020722
+240,Male,5.00,5.080,Domestic Longhair,Imidacloprid,Outcome Unknown,20150801
+241,Male,6.00,.640,Domestic (unspecified),Selamectin,Unknown,20030604
+242,Female,15.00,8.800,Cat (unknown),Alfaxalone,Died,20160222
+243,Male,1.00,4.990,Domestic (unspecified),Meloxicam,Unknown,20080115
+244,Male,2.20,4.690,Domestic Shorthair,Selamectin,Outcome Unknown,20151006
+245,Male,12.00,7.802,Domestic Shorthair,Selamectin,Ongoing,20170720
+246,Unknown,0,0,Cat (unknown),Fluralaner Spot-On Solution,Ongoing,20180718
+247,Male,12.00,6.804,Domestic Shorthair,Amoxicillin Trihydrate;Clavulanate Potassium ( K-Clavulanate),Outcome Unknown,20190508
+248,Male,7.00,9.072,Domestic Shorthair,Insulin Injectable Vial,Recovered with Sequela,20170803
+249,Male,4.00,6.804,Domestic Shorthair,Fluralaner Spot-On Solution,Ongoing,20180905
+250,Female,5.30,3.175,Domestic Shorthair,Fluralaner Spot-On Solution,Outcome Unknown,20200218
+251,Female,6.00,6.350,Domestic Shorthair,Dexmedetomidine Hydrochloride,Recovered/Normal,20200310
+252,Male,3.00,5.216,Domestic Longhair,Imidacloprid,Outcome Unknown,20180615
+253,Female,3.00,4.536,Domestic Mediumhair,Selamectin;Sarolaner,Outcome Unknown,20200708
+254,Unknown,0,4.536,Cat (unknown),Nitenpyram,Outcome Unknown,20200708
+255,Female,6.00,2.585,Domestic Shorthair,Sarolaner,Ongoing,20190731
+256,Unknown,7.00,0,Domestic Shorthair,Imidacloprid,Outcome Unknown,20191009
+257,Male,5.00,2.585,Domestic Shorthair,Imidacloprid,Outcome Unknown,20191104
+258,Male,6.00,8.620,Domestic Shorthair,Emodepside,Outcome Unknown,20130507
+259,Female,18.00,3.266,Domestic Mediumhair,Cyclosporine,Ongoing,20210318
+260,Female,12.00,4.990,Domestic Shorthair,Spinosad,Recovered/Normal,20130528
+261,Male,3.00,5.220,Domestic Mediumhair,Emodepside,Outcome Unknown,20121121
+262,Female,15.00,3.311,Domestic Longhair,Spinosad,Recovered/Normal,20141014
+263,Mixed,.00,0,Cat (unknown),Ketamine Hydrochloride,Unknown,19940224
+264,Female,1.00,3.080,Domestic (unspecified),Amoxicillin,Unknown,20090618
+265,Female,12.00,3.180,Domestic (unspecified),"Tiletamine, Zolazepam",Died,19970811
+266,Male,11.00,6.350,Domestic (unspecified),Selamectin,Unknown,20060801
+267,Female,8.00,.360,Domestic (unspecified),Selamectin,Died,20070719
+268,Male,1.00,5.220,Domestic (unspecified),Selamectin,Unknown,20120522
+269,Female,8.00,2.860,Domestic (unspecified),Meloxicam,Unknown,20050715
+270,Male,2.00,5.990,Domestic (unspecified),Selamectin,Unknown,20090923
+271,Male,16.00,0,Cat (unknown),Cefovecin,Ongoing,20150113
+272,Female,11.00,4.760,Domestic (unspecified),Human Insulin,Unknown,20100127
+273,Female,5.00,4.876,Domestic Shorthair,Meloxicam,Recovered/Normal,20150313
+274,Male,3.00,7.260,Domestic (unspecified),"Emodepside, Praziquantel",Unknown,20100930
+275,Female,11.00,5.625,Domestic Shorthair,Spinosad,Recovered/Normal,20150709
+276,Female,6.00,3.266,Domestic Shorthair,Dexmedetomidine Hydrochloride,Died,20161101
+277,Male,1.50,3.950,Domestic (unspecified),"Emodepside, Praziquantel",Unknown,20090721
+278,Female,10.00,2.812,Domestic (unspecified),Fluralaner Spot-On Solution,Recovered/Normal,20170331
+279,Female,10.00,3.630,Domestic Shorthair,Selamectin,Recovered/Normal,20150508
+280,Female,3.50,3.629,Domestic Shorthair,Praziquantel,Recovered/Normal,20180313
+281,Female,7.00,4.899,Domestic Shorthair,Spinosad,Recovered/Normal,20170426
+282,Male,1.00,7.711,Domestic Shorthair,Nitenpyram,Ongoing,20190407
+283,Male,1.50,4.354,Domestic Shorthair,Fluralaner/Moxidectin Spot-On,Ongoing,20201207
+284,Male,6.00,4.536,Domestic Shorthair,Sarolaner,Outcome Unknown,20170906
+285,Male,11.00,3.175,Domestic Shorthair,Phenylpropropanolamine Hcl,Outcome Unknown,20201219
+286,Male,14.00,4.990,Domestic Shorthair,Spinosad,Outcome Unknown,20121010
+287,Female,9.00,3.630,Domestic Shorthair,Emodepside,Outcome Unknown,20110923
+288,Male,13.00,3.630,Domestic Shorthair,Spinosad,Recovered/Normal,20130729
+289,Female,1.00,2.270,Domestic Shorthair,Spinosad,Recovered/Normal,20130930
+290,Male,2.00,8.530,Domestic Shorthair,Nitenpyram,Recovered/Normal,20120719
+291,Male,6.00,.680,Domestic (unspecified),"Amoxicillin, Clavulanate",Died,20001013
+292,Male,0,5.670,Domestic Mediumhair,Spinosad,Recovered/Normal,20140304
+293,Male,3.00,4.540,Domestic Shorthair,Selamectin,Ongoing,20140410
+294,Unknown,.00,0,Domestic (unspecified),Carprofen,Unknown,19980731
+295,Female,6.00,1.810,Domestic (unspecified),"Tiletamine, Zolazepam",Died,19990920
+296,Mixed,.00,0,Mixed (Cat),"Tiletamine, Zolazepam",Unknown,19980130
+297,Female,1.00,4.350,Domestic (unspecified),Ketamine Hydrochloride,Unknown,20111004
+298,Male,4.00,2.040,Domestic (unspecified),"Tiletamine, Zolazepam",Died,20010205
+299,Unknown,0,0,Cat (unknown),Selamectin,Unknown,20120319
+300,Male,4.00,2.770,Domestic (unspecified),Robenacoxib,Died,20120530
+301,Male,2.00,5.220,Cat (unknown),Meloxicam,Unknown,20110303
+302,Male,2.00,5.500,Domestic (unspecified),"Imidacloprid, Moxidectin",Unknown,20080808
+303,Female,0,3.180,Domestic (unspecified),Selamectin,Unknown,20030221
+304,Female,8.00,4.536,Domestic Shorthair,Spinosad,Recovered/Normal,20150910
+305,Female,15.00,3.946,Domestic Mediumhair,Praziquantel,Recovered/Normal,20151202
+306,Female,4.00,5.443,Domestic Shorthair,Nitenpyram,Recovered/Normal,20160902
+307,Unknown,0,0,Cat (unknown),Capromorelin,Euthanized,20171213
+308,Male,6.00,8.165,Domestic Shorthair,Spinosad,Recovered/Normal,20171116
+309,Female,6.00,2.722,Domestic Shorthair,Spinosad,Recovered/Normal,20171117
+310,Male,14.00,3.175,Domestic Mediumhair,Selamectin,Ongoing,20181220
+311,Male,5.00,5.897,Domestic Longhair,Nitenpyram,Ongoing,20190630
+312,Female,2.00,4.536,Domestic Shorthair,Selamectin,Recovered/Normal,20180907
+313,Unknown,9.00,1.270,Cat (unknown),Imidacloprid,Outcome Unknown,20181203
+314,Unknown,12.00,2.858,Domestic Shorthair,Eprinomectin,Outcome Unknown,20191031
+315,Female,6.00,4.536,Domestic Shorthair,Praziquantel,Outcome Unknown,20190717
+316,Male,16.00,4.990,Domestic Shorthair,Insulin Injectable Vial,Ongoing,20210602
+317,Female,3.00,4.218,Domestic Longhair,Fluralaner Spot-On Solution,Recovered/Normal,20200121
+318,Unknown,0,0,Cat (other),Selamectin,Outcome Unknown,20170217
+319,Female,10.00,4.990,Domestic Shorthair,Orbifloxacin Oral Suspension,Recovered/Normal,20170703
+320,Female,11.50,4.140,Domestic Shorthair,Spinosad,Recovered/Normal,20171215
+321,Female,14.00,6.350,Domestic Shorthair,Praziquantel,Recovered/Normal,20180122
+322,Male,14.00,6.690,Domestic Mediumhair,Buprenorphine,Recovered/Normal,20180529
+323,Male,3.00,5.262,Domestic Shorthair,Fluralaner Spot-On Solution,Ongoing,20180905
+324,Female,0,0,Cat (unknown),Nitenpyram,Outcome Unknown,20180801
+325,Male,3.00,5.100,Domestic Shorthair,Selamectin;Sarolaner,Ongoing,20200217
+326,Male,2.00,5.829,Domestic Mediumhair,Selamectin;Sarolaner,Outcome Unknown,20191021
+327,Female,15.00,3.765,Domestic Shorthair,Ferric Cation,Recovered/Normal,20180421
+328,Male,11.00,6.350,Domestic Shorthair,Fluralaner Spot-On Solution,Ongoing,20180831
+329,Male,11.00,7.983,Domestic Shorthair,Fluralaner Spot-On Solution,Outcome Unknown,20190102
+330,Male,7.00,5.534,Domestic Shorthair,Selamectin;Sarolaner,Ongoing,20190916
+331,Unknown,0,0,Cat (unknown),Selamectin,Outcome Unknown,20210326
+332,Male,4.00,3.450,Domestic Shorthair,Emodepside,Ongoing,20110805
+333,Unknown,5.00,3.175,Cat (other),Selamectin;Sarolaner,Outcome Unknown,20200929
+334,Male,26.00,2.268,Domestic Shorthair,Selamectin;Sarolaner,Ongoing,20210114
+335,Unknown,8.00,3.630,Domestic Shorthair,Enrofloxacin,Recovered/Normal,20121129
+336,Male,6.00,3.400,Cat (unknown),Selamectin,Outcome Unknown,20121029
+337,Male,12.50,5.170,Domestic Shorthair,Cefovecin,Died,20140226
+338,Female,6.00,0,American Shorthair,Spinosad,Recovered with Sequela,20130508
+339,Male,0,0,Domestic Shorthair,Spinosad,Outcome Unknown,20130709
+340,Female,15.00,4.540,Domestic Shorthair,Spinosad,Recovered/Normal,20131112
+341,Female,9.00,4.310,Domestic (unspecified),Ear Cleansers/Astringents,Unknown,20000920
+342,Unknown,3.00,6.350,Domestic Shorthair,Spinosad,Recovered with Sequela,20140630
+343,Female,10.00,6.080,Domestic Shorthair,Cefovecin,Outcome Unknown,20141217
+344,Male,4.00,8.070,Domestic (unspecified),Hexetidine,Unknown,20050307
+345,Female,10.50,3.990,Domestic (unspecified),Enrofloxacin,Unknown,20040127
+346,Male,17.00,0,Cat (unknown),Chloramphenicol,Died,20020124
+347,Female,6.00,2.500,Domestic (unspecified),Enrofloxacin,Unknown,20020827
+348,Male,4.00,1.360,Domestic (unspecified),Ketamine Hydrochloride,Unknown,20030827
+349,Male,5.00,4.540,Domestic (unspecified),Lufenuron,Unknown,19950809
+350,Female,4.00,1.590,Domestic (unspecified),Lufenuron,Unknown,20040317
+351,Male,5.00,5.940,Domestic (unspecified),Epsiprantel,Unknown,20050513
+352,Male,5.00,5.440,Domestic (unspecified),Selamectin,Unknown,20011017
+353,Male,10.00,6.350,Domestic (unspecified),Meloxicam,Unknown,20070829
+354,Unknown,3.00,3.400,Domestic (unspecified),Selamectin,Unknown,20000223
+355,Female,4.00,1.270,Domestic (unspecified),"Imidacloprid, Moxidectin",Unknown,20090801
+356,Male,8.00,9.530,Domestic (unspecified),Lufenuron,Unknown,20020814
+357,Female,0,0,Domestic (unspecified),Selamectin,Unknown,20010724
+358,Male,7.00,.910,Domestic (unspecified),Selamectin,Unknown,20060706
+359,Male,4.00,3.630,Domestic (unspecified),Selamectin,Unknown,19991026
+360,Male,3.00,7.260,Domestic (unspecified),Selamectin,Unknown,20110914
+361,Female,16.00,0,Domestic Mediumhair,Selamectin,Ongoing,20160212
+362,Female,8.00,2.722,Domestic Shorthair,Spinosad,Outcome Unknown,20151013
+363,Female,6.00,5.500,Domestic (unspecified),"Emodepside, Praziquantel",Unknown,20070926
+364,Female,12.00,9.530,Domestic (unspecified),Cefovecin Sodium,Unknown,20111213
+365,Male,5.00,6.800,Domestic (unspecified),"Imidacloprid, Moxidectin",Unknown,20090321
+366,Unknown,0,0,Domestic Longhair,Fluralaner Spot-On Solution,Ongoing,20170510
+367,Female,9.00,6.831,Domestic Shorthair,Pradofloxacin,Outcome Unknown,20160628
+368,Female,10.00,1.130,Domestic Mediumhair,Selamectin,Recovered/Normal,20150713
+369,Female,13.00,6.804,Domestic Shorthair,Fluralaner Spot-On Solution,Ongoing,20180316
+370,Female,9.00,3.447,Domestic Shorthair,Fluralaner Spot-On Solution,Ongoing,20170725
+371,Female,14.00,5.300,Domestic Shorthair,Semintra Telmisartan 4 Mg/Ml,Outcome Unknown,20181004
+372,Female,1.00,4.536,Crossbred Feline/cat,Nitenpyram,Recovered/Normal,20180723
+373,Male,16.00,6.400,Domestic Shorthair,Semintra Telmisartan 4 Mg/Ml,Outcome Unknown,20180919
+374,Male,18.00,3.175,Domestic Shorthair,Imidacloprid,Outcome Unknown,20180904
+375,Female,4.00,5.897,Domestic Shorthair,Fluralaner/Moxidectin Spot-On,Ongoing,20200518
+376,Female,0,0,Cat (unknown),Fluralaner Spot-On Solution,Ongoing,20201006
+377,Unknown,0,0,Cat (unknown),Nitenpyram,Outcome Unknown,20201228
+378,Male,5.00,6.350,Domestic Shorthair,Spinosad,Recovered/Normal,20131127
+379,Female,4.00,1.950,Cat (unknown),Ketamine Hydrochloride,Died,20140819
+380,Male,12.00,3.630,Domestic (unspecified),Acepromazine Maleate,Died,20011023
+381,Male,9.00,1.130,Domestic (unspecified),"Amoxicillin, Clavulanate",Unknown,20100727
+382,Unknown,8.00,0,Cat (unknown),Piperazine Citrate,Died,19941108
+383,Mixed,4.50,5.440,Domestic (unspecified),"Praziquantel, Pyrantel Pamoate",Unknown,20040430
+384,Mixed,.00,0,Domestic (unspecified),Lufenuron,Unknown,19980805
+385,Unknown,0,0,Unknown,Ivermectin Chewables Cat 165 Mcg,Unknown,20111107
+386,Female,6.00,4.450,Domestic Shorthair,Selamectin,Ongoing,20120921
+387,Unknown,0,0,Cat (unknown),Spinosad,Recovered/Normal,20130303
+388,Male,8.00,2.860,Domestic Shorthair,Robenacoxib,Recovered/Normal,20131118
+389,Female,4.00,1.810,Domestic Mediumhair,Spinosad,Recovered/Normal,20130731
+390,Female,13.00,6.400,Domestic Longhair,Cefovecin,Outcome Unknown,20131203
+391,Male,2.00,4.309,Domestic Shorthair,Imidacloprid,Outcome Unknown,20140523
+392,Unknown,.00,0,Cat (unknown),Ketamine Hydrochloride,Died,19890802
+393,Unknown,0,0,Cat (unknown),Selamectin,Unknown,20001019
+394,Female,2.00,4.310,Domestic (unspecified),Epsiprantel,Unknown,20000223
+395,Female,6.00,1.810,Domestic (unspecified),Carprofen,Unknown,19990818
+396,Male,3.00,1.810,Domestic (unspecified),Lufenuron,Unknown,19990205
+397,Male,5.00,5.720,Domestic (unspecified),Selamectin,Unknown,20080221
+398,Mixed,6.00,0,Domestic (unspecified),Selamectin,Unknown,20100208
+399,Female,12.00,4.080,Cat (unknown),Selamectin,Unknown,20010510
+400,Male,6.00,7.710,Domestic (unspecified),Selamectin,Unknown,20120302
+401,Male,5.00,4.990,Domestic (unspecified),Selamectin,Died,20010510
+402,Female,4.00,5.440,Domestic (unspecified),Selamectin,Unknown,20060915
+403,Female,5.00,3.860,Domestic (unspecified),Meloxicam,Died,20060214
+404,Male,6.00,8.620,Domestic (unspecified),Meloxicam,Unknown,20060329
+405,Female,13.00,4.540,Domestic (unspecified),Cyclosporine,Unknown,20110609
+406,Female,4.00,4.600,Domestic (unspecified),"Imidacloprid, Moxidectin",Unknown,20080925
+407,Female,6.00,2.720,Domestic (unspecified),"Imidacloprid, Moxidectin",Unknown,20090930
+408,Male,0,0,Domestic (unspecified),"Emodepside, Praziquantel",Unknown,20101022
+409,Male,16.00,7.260,Domestic (unspecified),Human Insulin,Unknown,20101008
+410,Unknown,0,0,Cat (unknown),Nitenpyram,Outcome Unknown,20151101
+411,Female,4.00,4.082,Domestic Shorthair,Praziquantel,Died,20160617
+412,Male,5.00,3.447,Domestic Shorthair,Selamectin,Outcome Unknown,20160122
+413,Male,5.00,5.987,Domestic Shorthair,Florfenicol,Outcome Unknown,20161019
+414,Female,1.00,3.175,Domestic Mediumhair,Spinosad,Recovered/Normal,20160912
+415,Male,2.00,4.581,Domestic Shorthair,Fluralaner Spot-On Solution,Ongoing,20170413
+416,Female,6.00,4.082,Domestic Shorthair,Nitenpyram,Recovered/Normal,20190204
+417,Male,3.00,4.536,Domestic Longhair,Nitenpyram,Recovered/Normal,20180531
+418,Female,6.00,4.672,Domestic Shorthair,Spinosad,Outcome Unknown,20180820
+419,Male,5.00,4.763,Domestic Shorthair,Fluralaner Spot-On Solution,Ongoing,20180802
+420,Male,15.00,4.082,Domestic Shorthair,Fluralaner Spot-On Solution,Ongoing,20190722
+421,Male,5.00,5.534,Domestic Shorthair,Protamine Zinc Recombinant Human Insulin,Outcome Unknown,20210114
+422,Female,1.50,4.082,Domestic Shorthair,Fluralaner/Moxidectin Spot-On,Ongoing,20201022
+423,Male,7.00,2.722,Domestic Shorthair,Nitenpyram,Outcome Unknown,20191111
+424,Male,3.00,5.398,Domestic Shorthair,Imidacloprid,Outcome Unknown,20210628
+425,Male,10.50,6.690,Domestic Shorthair,Spinosad,Recovered/Normal,20131219
+426,Male,5.00,6.710,Domestic Shorthair,Selamectin,Outcome Unknown,20140409
+427,Female,11.00,1.000,Domestic Shorthair,Imidacloprid,Recovered/Normal,20140701
+428,Female,3.00,3.220,Domestic (unspecified),"Tiletamine, Zolazepam",Unknown,20101112
+429,Female,8.00,5.440,Domestic Longhair,Nitenpyram,Outcome Unknown,20141008
+430,Female,2.00,4.540,Domestic (unspecified),Tetracycline Hydrochloride,Unknown,19930128
+431,Male,6.00,6.890,Domestic (unspecified),Methylprednisolone Acetate,Unknown,20100607
+432,Male,5.00,5.440,Domestic (unspecified),Ketamine Hydrochloride,Unknown,19980123
+433,Mixed,0,0,Mixed (Cat),"Tiletamine, Zolazepam",Unknown,20031223
+434,Male,3.00,1.360,Domestic (unspecified),Butorphanol Tartrate,Unknown,20020726
+435,Female,3.00,3.860,Domestic (unspecified),Orbifloxacin,Unknown,20050103
+436,Female,17.00,1.810,Cat (unknown),Epsiprantel,Unknown,19971008
+437,Male,7.00,6.800,Domestic (unspecified),Lufenuron,Unknown,19980526
+438,Male,7.00,.540,Domestic (unspecified),Selamectin,Died,20030701
+439,Male,9.00,8.160,Domestic (unspecified),Nitenpyram,Unknown,20101112
+440,Female,8.00,3.266,Domestic Mediumhair,Buprenorphine,Died,20151130
+441,Male,6.00,4.040,Domestic (unspecified),Maropitant,Unknown,20100319
+442,Unknown,0,4.536,Domestic Shorthair,Imidacloprid,Outcome Unknown,20150409
+443,Male,5.00,3.538,Domestic Shorthair,Selamectin,Ongoing,20160302
+444,Female,11.00,5.262,Cat (unknown),Praziquantel,Outcome Unknown,20160304
+445,Male,2.00,0,Domestic Shorthair,Imidacloprid,Outcome Unknown,20170222
+446,Male,5.00,2.450,Domestic Shorthair,Imidacloprid,Outcome Unknown,20160728
+447,Female,2.00,3.175,Domestic Shorthair,Praziquantel,Outcome Unknown,20210301
+448,Male,8.00,6.350,Domestic Shorthair,Praziquantel,Recovered/Normal,20200824
+449,Female,15.00,4.990,Domestic Longhair,Fluralaner/Moxidectin Spot-On,Ongoing,20210309
+450,Unknown,0,0,Cat (unknown),Dental And Oral Care Products,Unknown,20120812
+451,Unknown,0,0,Cat (unknown),Imidacloprid,Recovered/Normal,20201102
+452,Male,10.00,5.350,Domestic (unspecified),Selamectin,Unknown,20100624
+453,Female,9.00,6.030,Domestic (unspecified),Selamectin,Unknown,20120307
+454,Male,7.00,4.580,Domestic (unspecified),Selamectin,Unknown,20090624
+455,Mixed,0,4.310,Mixed (Cat),Dexmedetomidine Hydrochloride,Unknown,20101130
+456,Male,5.00,4.080,Domestic (unspecified),Cefovecin Sodium,Unknown,20111122
+457,Female,6.00,3.360,Domestic (unspecified),Cefovecin Sodium,Died,20080730
+458,Unknown,0,0,Cat (unknown),Spinosad,Recovered/Normal,20150910
+459,Male,1.00,7.620,Cat (unknown),Imidacloprid,Recovered/Normal,20160531
+460,Male,6.00,3.538,Domestic Shorthair,Selamectin,Outcome Unknown,20180125
+461,Male,3.00,6.033,Domestic Shorthair,Spinosad,Recovered/Normal,20170831
+462,Male,5.11,6.260,Cat (unknown),Spinosad,Recovered/Normal,20170425
+463,Male,5.00,2.722,Domestic Shorthair,Fluralaner Spot-On Solution,Ongoing,20191007
+464,Female,2.50,3.856,Domestic Shorthair,Selamectin;Sarolaner,Ongoing,20200602
+465,Male,11.00,5.171,Domestic Shorthair,Spinosad,Recovered/Normal,20190308
+466,Male,0,0,Domestic Shorthair,Protamine Zinc Recombinant Human Insulin,Outcome Unknown,20190117
+467,Male,13.00,4.309,Domestic Shorthair,Insulin Injectable Vial,Ongoing,20190308
+468,Male,17.00,4.808,Domestic Longhair,Eprinomectin,Outcome Unknown,20200117
+469,Male,8.00,4.990,Domestic Shorthair,Nitenpyram,Ongoing,20140409
+470,Male,2.00,4.080,Domestic Shorthair,Tresaderm Dermatological Solution,Ongoing,20140514
+471,Female,18.00,3.860,Cat (unknown),Spinosad,Recovered/Normal,20131031
+472,Male,0,0,Domestic (unspecified),Detomidine,Unknown,19991021
+473,Female,8.00,7.260,Domestic Shorthair,Selamectin,Recovered/Normal,20140813
+474,Male,6.00,2.722,Domestic Shorthair,Spinosad,Outcome Unknown,20141112
+475,Male,12.00,5.000,Domestic (unspecified),Enrofloxacin,Unknown,20051215
+476,Male,10.00,4.536,Domestic Shorthair,Spinosad,Recovered/Normal,20140909
+477,Male,7.50,6.804,Domestic Shorthair,Praziquantel,Recovered/Normal,20141218
+478,Female,9.00,4.080,Domestic (unspecified),Selamectin,Unknown,20020215
+479,Unknown,9.00,7.260,Domestic (unspecified),Carprofen,Unknown,19980805
+480,Mixed,0,0,Domestic (unspecified),Selamectin,Unknown,20100902
+481,Male,6.00,2.720,Abyssinian cat,Butorphanol Tartrate,Unknown,20030730
+482,Female,3.00,5.220,Cat (unknown),Imidacloprid,Outcome Unknown,20150117
+483,Female,10.00,5.220,Domestic (unspecified),Carprofen,Unknown,20000405
+484,Male,8.00,5.900,British cat,Cefovecin,Outcome Unknown,20150416
+485,Male,6.00,7.260,Domestic (unspecified),Selamectin,Unknown,20050408
+486,Male,0,0,Cat (unknown),"Emodepside, Praziquantel",Unknown,20090212
+487,Male,9.00,5.900,Domestic (unspecified),Cefovecin Sodium,Unknown,20091109
+488,Female,13.00,5.080,Domestic Shorthair,Fluralaner Spot-On Solution,Ongoing,20191217
+489,Male,6.00,6.214,Domestic Shorthair,Cyclosporine,Outcome Unknown,20210319
+490,Male,3.00,3.000,Domestic Mediumhair,Cefovecin,Ongoing,20200722
+491,Male,15.00,3.447,Domestic Shorthair,Fluralaner/Moxidectin Spot-On,Recovered/Normal,20200707
+492,Unknown,0,6.350,Cat (other),Selamectin,Ongoing,20160818
+493,Female,1.00,3.180,Domestic Shorthair,Praziquantel,Recovered/Normal,20170313
+494,Unknown,0,6.169,Cat (unknown),Nitenpyram,Outcome Unknown,20151110
+495,Male,8.00,9.979,Domestic Shorthair,Selamectin,Outcome Unknown,20170512
+496,Female,3.00,5.126,Domestic Shorthair,Spinosad,Recovered/Normal,20160510
+497,Unknown,0,0,Cat (unknown),Praziquantel,Outcome Unknown,20170704
+498,Female,2.00,5.443,Domestic Shorthair,Phytosphingosine Salicyloyl,Ongoing,20180207
+499,Female,12.00,4.990,Domestic Shorthair,Nitenpyram,Outcome Unknown,20181016
